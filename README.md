@@ -7,3 +7,6 @@ Just unpack the zip and run it through the exe. Enjoy the game!
 Эта игра была создана для WebGL, вы можете играть в нее в браузере, перейдя по ссылке: https://sebastianmetal.itch.io/        
 Однако, поскольку доступ к сайту для некоторых пользователей может быть ограничен, я сделал доступной для скачивания декстоп версию.        
 Просто распакуйте zip-файл и запустите его через исполняемый файл. Приятной игры!
+
+Download/ Скачать:
+https://github.com/Sebastian-hi/TheSpaceMarauder-FinalDesktopBuild/releases/tag/Game
