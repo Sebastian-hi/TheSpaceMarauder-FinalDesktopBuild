@@ -1,4 +1,4 @@
-# TheSpaceMarauder FinalDesktopBuild
+# The Space Marauder   Final Desktop Build
 This game was conceived for WebGL, you can play it in the browser using the link: https://sebastianmetal.itch.io/      
 However, since access to the site may be restricted for some users, I made the Desktop version available for download.    
 Just unpack the zip and run it through the exe. Enjoy the game!      
